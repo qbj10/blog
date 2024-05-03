@@ -25,4 +25,4 @@ toc = true
 
 **愿今年, 夫妻早相聚, 从自此, 白首不分离.**
 
-![Example image](/img/h1.gif)
+![Example image](img/h1.gif)
