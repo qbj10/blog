@@ -7,7 +7,7 @@ aliases = ["about-us", "contact"]
 author = "Amy Li"
 +++
 
-![Example image](img/girl.jpg)
+![Example image](/blog/img/girl.jpg)
 
 > 北方有佳人，绝世而独立。<br>
 > 一顾倾人城，再顾倾人国。<br>
