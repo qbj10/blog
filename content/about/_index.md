@@ -1,6 +1,6 @@
 +++
 title = ""
-header_img = "/img/home-bg-4.jpeg"
+header_img = "img/home-bg-4.jpeg"
 description = ""
 date = "2024-05-03"
 aliases = ["about-us", "contact"]

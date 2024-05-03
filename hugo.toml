@@ -86,7 +86,7 @@ enable = true
 gravatarEmail = ""
 # Overwritten by your gravatar image if `gravatarEmail` is filled
 avatar = "img/home-bg-3.webp"
-bio = "a personal website"
+bio = "We love you forever"
 
 [params.social]
 twitter = "iwant0o"
