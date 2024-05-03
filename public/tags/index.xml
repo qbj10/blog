@@ -6,8 +6,22 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birthday</title>
+      <link>http://localhost:1313/tags/birthday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/birthday/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Love</title>
+      <link>http://localhost:1313/tags/love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/love/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Css</title>
       <link>http://localhost:1313/tags/css/</link>

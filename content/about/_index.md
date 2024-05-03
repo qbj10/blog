@@ -7,20 +7,17 @@ aliases = ["about-us", "contact"]
 author = "Amy Li"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+![Example image](/img/girl.jpg)
 
-Hugo makes use of a variety of open source projects including:
+> 北方有佳人，绝世而独立。<br>
+> 一顾倾人城，再顾倾人国。<br>
+> 宁不知前路多坎坷，佳人常安乐。<br>
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+**她是我最爱的女子，坚强、善良又聪慧，对生活充满热爱。**
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+**即使面对困境，她仍以富有激情的方式生活，用悲悯之心待人。**
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+**遇见她之前，我的人生如同黑夜盲行。**
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**祝她以自己的意愿度过此生，愿我能与她相伴余生。**
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).

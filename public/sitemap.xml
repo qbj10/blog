@@ -8,6 +8,21 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/birthday/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/happy-birthday-2024/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/love/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,16 +38,10 @@
     <loc>http://localhost:1313/posts/markdown-syntax/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/series/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/themes/</loc>
